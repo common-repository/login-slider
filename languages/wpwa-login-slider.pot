@@ -1,0 +1,214 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Login Slider\n"
+"POT-Creation-Date: 2017-09-05 09:44-0500\n"
+"PO-Revision-Date: 2017-09-05 09:44-0500\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: login-slider.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#. Plugin Name of the plugin/theme
+#: includes/customizer-options.php:14
+msgid "Login Slider"
+msgstr ""
+
+#: includes/customizer-options.php:23
+msgid "Slides"
+msgstr ""
+
+#: includes/customizer-options.php:36
+msgid "Transition Style"
+msgstr ""
+
+#: includes/customizer-options.php:40
+msgid "Slide"
+msgstr ""
+
+#: includes/customizer-options.php:41
+msgid "Fade"
+msgstr ""
+
+#: includes/customizer-options.php:42
+msgid "Fade Up"
+msgstr ""
+
+#: includes/customizer-options.php:43
+msgid "Back Slide"
+msgstr ""
+
+#: includes/customizer-options.php:44
+msgid "Go Down"
+msgstr ""
+
+#: includes/customizer-options.php:57
+msgid "Slide Duration (milliseconds)"
+msgstr ""
+
+#: includes/customizer-options.php:70
+msgid "Slider Image 1"
+msgstr ""
+
+#: includes/customizer-options.php:82
+msgid "Image 1 Link URL"
+msgstr ""
+
+#: includes/customizer-options.php:96
+msgid "Open Link 1 In New Tab/Window"
+msgstr ""
+
+#: includes/customizer-options.php:109
+msgid "Slider Image 2"
+msgstr ""
+
+#: includes/customizer-options.php:121
+msgid "Image 2 Link URL"
+msgstr ""
+
+#: includes/customizer-options.php:135
+msgid "Open Link 2 In New Tab/Window"
+msgstr ""
+
+#: includes/customizer-options.php:148
+msgid "Slider Image 3"
+msgstr ""
+
+#: includes/customizer-options.php:160
+msgid "Image 3 Link URL"
+msgstr ""
+
+#: includes/customizer-options.php:174
+msgid "Open Link 3 In New Tab/Window"
+msgstr ""
+
+#: includes/customizer-options.php:187
+msgid "Slider Image 4"
+msgstr ""
+
+#: includes/customizer-options.php:199
+msgid "Image 4 Link URL"
+msgstr ""
+
+#: includes/customizer-options.php:213
+msgid "Open Link 4 In New Tab/Window"
+msgstr ""
+
+#: includes/customizer-options.php:226
+msgid "Slider Image 5"
+msgstr ""
+
+#: includes/customizer-options.php:238
+msgid "Image 5 Link URL"
+msgstr ""
+
+#: includes/customizer-options.php:252
+msgid "Open Link 5 In New Tab/Window"
+msgstr ""
+
+#: includes/customizer-options.php:265
+msgid "Slider Image 6"
+msgstr ""
+
+#: includes/customizer-options.php:277
+msgid "Image 6 Link URL"
+msgstr ""
+
+#: includes/customizer-options.php:291
+msgid "Open Link 6 In New Tab/Window"
+msgstr ""
+
+#: includes/customizer-options.php:304
+msgid "Slider Image 7"
+msgstr ""
+
+#: includes/customizer-options.php:316
+msgid "Image 7 Link URL"
+msgstr ""
+
+#: includes/customizer-options.php:330
+msgid "Open Link 7 In New Tab/Window"
+msgstr ""
+
+#: includes/customizer-options.php:342
+msgid "Colors and Branding"
+msgstr ""
+
+#: includes/customizer-options.php:355
+msgid "Login Form Logo"
+msgstr ""
+
+#: includes/customizer-options.php:368
+msgid "Body Background"
+msgstr ""
+
+#: includes/customizer-options.php:381
+msgid "Form Background"
+msgstr ""
+
+#: includes/customizer-options.php:394
+msgid "Transparent Form Background"
+msgstr ""
+
+#: includes/customizer-options.php:408
+msgid "Remove Form Shadow"
+msgstr ""
+
+#: includes/customizer-options.php:422
+msgid "Form Label Color"
+msgstr ""
+
+#: includes/customizer-options.php:435
+msgid "Form Input Background Color"
+msgstr ""
+
+#: includes/customizer-options.php:448
+msgid "Form Input Text Color"
+msgstr ""
+
+#: includes/customizer-options.php:461
+msgid "Form Button Text Color"
+msgstr ""
+
+#: includes/customizer-options.php:474
+msgid "Form Button Background Color"
+msgstr ""
+
+#: includes/customizer-options.php:487
+msgid "Form Button Text Color (Hover)"
+msgstr ""
+
+#: includes/customizer-options.php:500
+msgid "Form Button Background Color (Hover)"
+msgstr ""
+
+#: includes/customizer-options.php:513
+msgid "Below Form Links"
+msgstr ""
+
+#: includes/customizer-options.php:526
+msgid "Below Form Links (Hover)"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "An announcement slider for your login screen"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "WP Web Apps"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://wpwebapps.com"
+msgstr ""
